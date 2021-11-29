@@ -17,7 +17,7 @@ h1{
 }
 p{
     font-size: 1.0rem;
-    color: darksalmon;
+    color: rgb(15, 5, 1);
 }
 h2{
     color: darkseagreen;
@@ -54,7 +54,7 @@ h2{
     margin: 30px auto 50px 20px;
 }
 .iman_ve_insan{
-    width: 50%;
+    width: 80%;
     margin: auto;
     text-align: left;
 }
